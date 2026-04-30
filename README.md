@@ -48,7 +48,7 @@ Evaluation: **R² score** and **Mean Squared Error (MSE)**
 Multicollinearity check via **Variance Inflation Factor (VIF)**.
 
 ### 5. Time Series Forecasting
-- **SARIMAX(1,1,1)(1,1,1,12)** model on monthly product release counts
+- **SARIMA(1,1,1)(1,1,1,12)** model on monthly product release counts
 - Forecast next 12 months with confidence intervals
 
 ### 6. NLP — Sentiment Analysis
